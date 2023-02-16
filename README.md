@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Chidera Akubude - [Github](https://github.com/Akubude-chidera) 
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Obed Ehoneah - [Github](https://github.com/ehoneahobed) / [Twitter](https://ehoneahobed.com/twitter)
+Eugene Oyier - [Github](https://github.com/zer0degrees) / [Twitter](https://ehoneahobed.com/twitter)
 
 Second part of Airbnb: Joann Vuong
 ## License
